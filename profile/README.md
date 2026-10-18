@@ -1,10 +1,25 @@
-# Orbix Tech
-Welcome to Orbix Tech, a leading IT solutions provider at the forefront of technological innovation. We specialize in delivering cutting-edge software development, web design services to empower businesses of all sizes.
+# Orbix Lab
 
-At Orbix Tech, we understand the evolving needs of the modern digital landscape. With our team of highly skilled professionals, we strive to create tailor-made solutions that meet the unique requirements of our clients. Our dedicated developers and designers possess deep expertise across a wide range of technologies, enabling us to deliver top-notch solutions that drive business growth and enhance efficiency.
+We build open-source software and custom digital solutions. Our main project is **[Artemis](https://github.com/orbix-lab/Artemis)**, an open-source AI agent that lives on your computer: you pick the model, you keep the data, and you press approve.
 
-Whether you're looking to develop a robust enterprise application, build an intuitive website, or optimize your online presence, we have the expertise and experience to turn your vision into reality. Our agile development approach ensures timely delivery and constant collaboration, keeping you involved throughout the process.
+## What we do
 
-At Orbix Tech, we prioritize quality, reliability, and customer satisfaction. Our commitment to excellence has earned us a strong reputation for delivering exceptional solutions that exceed expectations. We value long-term partnerships with our clients, and our dedicated support team is always ready to provide assistance and ongoing maintenance to ensure smooth operations.
+- **Open source**: Artemis and other tools we share with the community.
+- **Software development**: desktop, web and AI-powered applications built to fit your needs.
+- **Web design**: clear, fast websites that represent your business well.
 
-Join hands with Orbix Tech and unlock the true potential of technology for your business. Contact us today to discuss your requirements and embark on a transformative journey toward success in the digital world.
+## Projects
+
+| Project | Description |
+| --- | --- |
+| [Artemis](https://github.com/orbix-lab/Artemis) | Open-source AI agent for your desktop. Any model, local data, you approve every action. |
+
+## Get involved
+
+- Try Artemis and tell us what you think in [Discussions](https://github.com/orbix-lab/Artemis/discussions).
+- Report a bug or suggest a feature through [Issues](https://github.com/orbix-lab/Artemis/issues).
+- Contribute code, docs or themes: see [CONTRIBUTING.md](https://github.com/orbix-lab/Artemis/blob/main/CONTRIBUTING.md).
+
+## Website
+
+[orbix-lab.github.io](https://orbix-lab.github.io)
